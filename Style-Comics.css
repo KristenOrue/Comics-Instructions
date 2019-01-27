@@ -1,0 +1,71 @@
+h1 {
+    font-size: 5rem;
+    color: #ffc510;
+    font-weight: bold;
+}
+
+body {
+    background-image: url('https://i.ytimg.com/vi/sEl8ldmTO4o/maxresdefault.jpg');
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%;
+
+}
+
+
+div.jumbotron {
+    background-image: url('https://i.ytimg.com/vi/qLM_TPvp-Q4/maxresdefault.jpg');
+    background-position: stretch;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+div.collapsenavbar-collapse {
+    font-size: 5rem;
+    color: (255,0,0);
+}
+
+img {
+    display:block;
+    margin: 0 auto;
+    border: 6px solid #4c69f6;
+    float: center;
+    text-align: center;
+
+}
+
+footer {
+    display: block;
+    font-size: 2rem solid;
+    color: #ffc510;
+    
+}
+
+h2{
+    text-align: center;
+    color: #ee5454;
+}
+
+h3 {
+    text-align: center;
+    color: #4c69f6;
+}
+
+a {
+    color:#ee5454;
+        
+}
+
+
+p {
+    color: whitesmoke;
+    text-align: center;
+    margin-left: 7em;
+    margin-right:7em;
+    
+}
+
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
